@@ -1,0 +1,2 @@
+This is a repository for CSIT-415 (Software Engineering II). 
+I am going to add an image of my favorite animal. 
